@@ -215,4 +215,6 @@ public class PetController : MonoBehaviour
     {
         return b.x - a.x;  // 부호 포함
     }
+
+    //test
 }
